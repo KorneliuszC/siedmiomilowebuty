@@ -364,7 +364,7 @@ width: 300px;
     width: 110%;
 
 }
-
+}
 
 @media (max-width: 227px) and (min-width: 168px){
 .button {
@@ -414,7 +414,47 @@ margin-left: -20px;
 
 
 
-    /*big one section       (+1700 px) */
+    /*big one section       (+1400 px) */
+    @media  (min-width: 1450px) and (max-width: 1550px){
+      .whiteLinePosition{
+      margin-left: 55px;
+    }}
+
+
+    @media  (min-width: 1550px) and (max-width: 1650px){
+      .whiteLinePosition{
+      margin-left: 57px;
+    }}
+
+
+    @media  (min-width: 1650px) and (max-width: 1750px){
+      .whiteLinePosition{
+      margin-left: 59px;
+    }}
+
+
+    @media  (min-width: 1750px) and (max-width: 1850px){
+      .whiteLinePosition{
+      margin-left: 61px;
+    }}
+
+
+    @media  (min-width: 1850px) and (max-width: 1950px){
+      .whiteLinePosition{
+      margin-left: 63px;
+    }}
+
+
+    @media  (min-width: 1950px) and (max-width: 2050px){
+      .whiteLinePosition{
+      margin-left: 66px;
+    }}
+
+    
+
+
+    
+    
     @media  (min-width: 1700px) and (max-width: 2000px){
       .leftSide{
         max-width: 200px;
@@ -454,5 +494,58 @@ margin-left: -20px;
         margin-top: 1%;
       }
     }
+    
+
+
+
+
+
+    @media  (min-width: 0px) and (max-width: 1350px) {
+      .hugeSize{
+        display: none;
+      }
+
+
+
+    }
+    
+
+    @media  (min-width: 1350px){
+      .smallSize{
+        display: none;
+      }
+
+      .girlPhoto{
+        height: 100%;
+      }
+
+      .centralField{
+        margin-left: 35%;
+      }
+
+
+
+      .leftSide {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+
+    .buttonFont{
+      margin-left: 44%;
+      margin-top: -30%;
+    }
+
+
+    .whiteUnderline {
+     
+      margin-top: 20%;
+      position: relative;
+  }
+
+
+    }
+    
+
     
     
