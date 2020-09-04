@@ -10,6 +10,8 @@ src:url(static/Oswald-Medium.ttf);
 src:url(static/Oswald-Regular.ttf);
 src:url(static/Oswald-SemiBold.ttf);
 
+
+
 }
 
 body{
@@ -464,11 +466,37 @@ margin-left: -20px;
 
 
 
+    @media  (min-width: 1300px) and (max-width: 1400px){
+      .leftSide{
+        max-width: 200px;
+        margin-top: 55%;
+        margin-left: 35%;
+      }
+    }
+
+    @media  (min-width: 1200px) and (max-width: 1300px){
+      .leftSide{
+        max-width: 200px;
+        margin-top: 55%;
+        margin-left: 35%;
+      }
+    }
+
+
+
+    @media  (min-width: 1100px) and (max-width: 1200px){
+      .leftSide{
+    margin-top: 70%;
+    margin-left: 20%;
+  }
+}
+
+
     @media  (min-width: 1400px) and (max-width: 1800px){
       .leftSide{
         max-width: 200px;
-        margin-top: 40%;
-        margin-left: 30%;
+        margin-top: 50%;
+        margin-left: 40%;
       }
     }
 
@@ -1074,12 +1102,12 @@ margin-left: -20px;
 
 @media  (min-width: 1600px) and (max-width: 1650px){
   .whiteLinePosition {
-    margin-left: 200px;
+    margin-left: 70px;
  
 }
 
 .girlPhoto{
-  margin-left: 150px;
+  /* margin-left: 150px; */
 }
 }
 
@@ -1088,32 +1116,32 @@ margin-left: -20px;
 
 @media  (min-width: 1650px) and (max-width: 1700px){
   .whiteLinePosition {
-    margin-left: 215px;
+    margin-left: 73px;
 }
 
 .girlPhoto{
-margin-left: 160px;
+/* margin-left: 160px; */
 }
 }
 
 
 @media  (min-width: 1700px) and (max-width: 1750px){
     .whiteLinePosition {
-    margin-left: 256px;
+      margin-left: 74px;
   }
  
 .girlPhoto{
-  margin-left: 195px;
+  /* margin-left: 195px; */
 }
 }
 
 @media  (min-width: 1750px) and (max-width: 1800px){
   .whiteLinePosition {
-    margin-left: 265px;
+    margin-left: 79px;
 }
 
 .girlPhoto{
-  margin-left: 206px;
+  /* margin-left: 206px; */
 }
 }
 
@@ -1121,11 +1149,11 @@ margin-left: 160px;
 
 @media  (min-width: 1800px) and (max-width: 1850px){
   .whiteLinePosition {
-    margin-left: 292px;
+    margin-left: 79px;
 }
 
 .girlPhoto{
-  margin-left: 228px;
+  /* margin-left: 228px; */
 }
 }
 
@@ -1134,11 +1162,11 @@ margin-left: 160px;
 
 @media  (min-width: 1850px) and (max-width: 1900px){
   .whiteLinePosition {
-    margin-left: 325px;
+    margin-left: 85px;
 }
 
 .girlPhoto{
-  margin-left: 261px;
+  /* margin-left: 261px; */
 }
 }
 
@@ -1148,11 +1176,11 @@ margin-left: 160px;
 
 @media  (min-width: 1900px) and (max-width: 1950px){
   .whiteLinePosition {
-    margin-left: 350px;
+    margin-left: 85px;
 }
 
 .girlPhoto{
-  margin-left: 285px;
+  /* margin-left: 285px; */
 }
 }
 
@@ -1161,11 +1189,11 @@ margin-left: 160px;
 
 @media  (min-width: 1950px) and (max-width: 2000px){
   .whiteLinePosition {
-    margin-left: 367px;
+    margin-left: 91px;
 }
 
 .girlPhoto{
-  margin-left: 301px;
+  /* margin-left: 301px; */
 }
 }
 
@@ -1175,11 +1203,11 @@ margin-left: 160px;
 
 @media  (min-width: 2000px) and (max-width: 2050px){
   .whiteLinePosition {
-    margin-left: 399px;
+    margin-left: 93px;
 }
 
 .girlPhoto{
-  margin-left: 333px;
+  /* margin-left: 333px; */
 }
 }
 
@@ -1188,11 +1216,11 @@ margin-left: 160px;
 
 @media  (min-width: 2050px) and (max-width: 2100px){
   .whiteLinePosition {
-    margin-left: 421px;
+    margin-left: 96px;
 }
 
 .girlPhoto{
-  margin-left: 356px;
+  /* margin-left: 356px; */
 }
 }
 
@@ -1200,11 +1228,11 @@ margin-left: 160px;
 
 @media  (min-width: 2100px) and (max-width: 2150px){
   .whiteLinePosition {
-    margin-left: 450px;
+    margin-left: 99px;
 }
 
 .girlPhoto{
-  margin-left: 380px;
+  /* margin-left: 380px; */
 }
 }
 
@@ -1213,11 +1241,11 @@ margin-left: 160px;
 
 @media  (min-width: 2150px) and (max-width: 2200px){
   .whiteLinePosition {
-    margin-left: 469px;
+    margin-left: 101px;
 }
 
 .girlPhoto{
-  margin-left: 398px;
+  /* margin-left: 398px; */
 }
 }
 
@@ -1225,11 +1253,11 @@ margin-left: 160px;
 
 @media  (min-width: 2200px) and (max-width: 2250px){
   .whiteLinePosition {
-    margin-left: 496px;
+    margin-left: 106px;
 }
 
 .girlPhoto{
-  margin-left: 428px;
+  /* margin-left: 428px; */
 }
 }
 
@@ -1238,11 +1266,11 @@ margin-left: 160px;
 
 @media  (min-width: 2250px) and (max-width: 2300px){
   .whiteLinePosition {
-    margin-left: 525px;
+    margin-left: 110px;
 }
 
 .girlPhoto{
-  margin-left: 453px;
+  /* margin-left: 453px; */
 }
 }
 
@@ -1251,11 +1279,11 @@ margin-left: 160px;
 
 @media  (min-width: 2300px) and (max-width: 2350px){
   .whiteLinePosition {
-    margin-left: 552px;
+    margin-left: 111px;
 }
 
 .girlPhoto{
-  margin-left: 477px;
+  /* margin-left: 477px; */
 }
 }
 
@@ -1264,11 +1292,11 @@ margin-left: 160px;
 
 @media  (min-width: 2350px) and (max-width: 2400px){
   .whiteLinePosition {
-    margin-left: 574px;
+    margin-left: 111px;;
 }
 
 .girlPhoto{
-  margin-left: 500px;
+  /* margin-left: 500px; */
 }
 }
 
@@ -1277,11 +1305,11 @@ margin-left: 160px;
 
 @media  (min-width: 2400px) and (max-width: 2450px){
   .whiteLinePosition {
-    margin-left: 601px;
+    margin-left: 110px;
 }
 
 .girlPhoto{
-  margin-left: 525px;
+  /* margin-left: 525px; */
 }
 }
 
@@ -1290,11 +1318,11 @@ margin-left: 160px;
 
 @media  (min-width: 2450px) and (max-width: 2500px){
   .whiteLinePosition {
-    margin-left: 629px;
+    margin-left: 110px;
 }
 
 .girlPhoto{
-  margin-left: 554px;
+  /* margin-left: 554px; */
 }
 }
 
@@ -1313,21 +1341,21 @@ margin-left: 160px;
 
 @media  (min-width: 1600px) and (max-width: 1609px){
   .whiteLinePosition{
-    margin-left: 195px;
+    margin-left: 69px;
 }
 }
 
 
 @media  (min-width: 1700px) and (max-width: 1740px){
   .whiteLinePosition{
-    margin-left: 197px;
+    margin-left: 75px;
 }
 }
 
 
 @media  (min-width: 1800px) and (max-width: 1809px){
   .whiteLinePosition{
-    margin-left: 288px;
+    margin-left: 76px;
 }
 }
 /* 
@@ -1342,4 +1370,48 @@ margin-left: 160px;
 .whiteLinePosition {
     margin-left: 139px;
 }
+}
+
+@media (max-width: 700px){
+  .titleOfBook{
+display: none;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 1400px){
+  .titleOfBook{
+display: none;
+}}
+
+@media (min-width: 701px){
+  .titleOfBook{
+    position: absolute;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    margin-left: 0%; */
+     box-shadow: 0 5px 15px rgba(0,0,0,.5);
+     z-index: -100;
+  }
+}
+
+
+
+@media (max-width: 1300px){
+  .titleOfBookSmall{
+display: none;
+  }
+}
+
+@media (min-width: 1300px) and (max-width: 1400px){
+  .titleOfBookSmall{
+     position: absolute;
+     box-shadow: 0 5px 15px rgba(0,0,0,.5);
+     z-index: -100;
+}}
+
+@media (min-width: 1400px){
+  .titleOfBookSmall{
+    display: none;
+
+  }
 }
