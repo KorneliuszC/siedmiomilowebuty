@@ -1427,3 +1427,9 @@ display: none;
   .whiteUnderline{
     width: 102%;
 }}
+
+
+@media (max-width: 1410px) and (min-width: 1400px){
+  .whiteLinePosition{
+    margin-left: 87px;
+}}
