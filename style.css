@@ -286,7 +286,7 @@ Wersja mobilna:
  
 
   .container{
-    margin-left: 3% !important;
+    margin-left: 9% !important;
   }
   }
   
@@ -1415,3 +1415,9 @@ display: none;
 
   }
 }
+
+@media (max-width: 300px) and (min-width: 150px){
+.container {
+    margin-left: 17%;
+}
+} 
