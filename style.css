@@ -1421,3 +1421,9 @@ display: none;
     margin-left: 17%;
 }
 } 
+
+
+@media (max-width: 1050px) and (min-width: 1000px){
+  .whiteUnderline{
+    width: 102%;
+}}
