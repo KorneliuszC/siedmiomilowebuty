@@ -286,7 +286,7 @@ Wersja mobilna:
  
 
   .container{
-    margin-left: 9% !important;
+    margin-left: 2% !important;
   }
   }
   
@@ -1537,4 +1537,64 @@ display: none;
       margin-top: 78%;
       margin-left: 19%;
 
+}}
+
+
+
+@media (max-width: 1063px) and (min-width: 1050px){
+  .whiteLinePosition{
+    margin-left: -88px;
+  
+}}
+
+
+
+@media (max-width: 1114px) and (min-width: 1100px){
+  .whiteLinePosition{
+    margin-left: -67px;
+  
+}}
+
+
+
+
+
+@media (max-width: 1000px) and (min-width: 900px){
+  .titleOfBookTiny{
+      display: none;
+}}
+
+
+
+
+@media(min-width: 1000px){
+  .titleOfBookVeryTiny{
+    display: none;
+  }
+}
+
+
+@media(max-width: 900px){
+  .titleOfBookVeryTiny{
+    display: none;
+  }
+}
+
+
+
+
+
+@media (max-width: 1000px) and (min-width: 900px){
+  .titleOfBookVeryTiny{
+    position: absolute;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    margin-left: 0%; */
+     box-shadow: 0 5px 15px rgba(0,0,0,.5);
+     z-index: -100;
+}}
+
+@media (max-width: 150px) and (min-width: 50px){
+.container {
+    margin-left: 1%;
 }}
