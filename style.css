@@ -1611,3 +1611,63 @@ display: none;
       width: 100%;
 }
 }
+
+
+@media (min-width: 700px){
+  .mobilneImg{
+        display: none;
+  }
+  }
+
+  
+  
+
+@media (max-width: 700px) and (min-width: 600px){
+  .container{
+    margin-top: 30px;
+  }}
+
+  
+@media (max-width: 600px) and (min-width: 500px){
+  .container{
+    margin-top: 30px;
+  }}
+
+
+
+@media (max-width: 500px) and (min-width: 400px){
+.container{
+  margin-top: 30px;
+}}
+
+
+@media (max-width: 400px) and (min-width: 300px){
+  .container{
+    margin-top: 30px;
+  }}
+
+
+  @media (max-width: 300px) and (min-width: 200px){
+    .container{
+      margin-top: 30px;
+    }}
+
+
+    @media (max-width: 200px) and (min-width: 100px){
+      .container{
+        margin-top: 30px;
+      }}
+
+
+      @media (max-width: 100px){
+        .container{
+          margin-top: 30px;
+        }}
+
+
+        
+@media (max-width: 100px){
+  .mobilneImg{
+        display: none;
+  }
+  }
