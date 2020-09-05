@@ -1598,3 +1598,16 @@ display: none;
 .container {
     margin-left: 1%;
 }}
+
+
+
+
+
+
+
+
+@media (max-width: 700px) and (min-width: 1px){
+.mobilneImg{
+      width: 100%;
+}
+}
