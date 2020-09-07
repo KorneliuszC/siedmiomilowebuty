@@ -1671,3 +1671,18 @@ display: none;
         display: none;
   }
   }
+
+
+
+
+  
+
+@media  (min-width: 1150px) and (max-width: 1156px){
+  .whiteLinePosition {
+    margin-left: 42px;
+}
+
+.girlPhoto{
+  /* margin-left: 398px; */
+}
+}
