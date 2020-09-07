@@ -1624,44 +1624,44 @@ display: none;
 
 @media (max-width: 700px) and (min-width: 600px){
   .container{
-    margin-top: 45px;
+    margin-top: 310px;
   }}
 
   
 @media (max-width: 600px) and (min-width: 500px){
   .container{
-    margin-top: 45px;
+    margin-top: 310px;
   }}
 
 
 
 @media (max-width: 500px) and (min-width: 400px){
 .container{
-  margin-top: 45px;
+  margin-top: 310px;
 }}
 
 
 @media (max-width: 400px) and (min-width: 300px){
   .container{
-    margin-top: 45px;
+    margin-top: 310px;
   }}
 
 
   @media (max-width: 300px) and (min-width: 200px){
     .container{
-      margin-top: 45px;
+      margin-top: 310px;
     }}
 
 
     @media (max-width: 200px) and (min-width: 100px){
       .container{
-        margin-top: 45px;
+        margin-top: 190px;
       }}
 
 
       @media (max-width: 100px){
         .container{
-          margin-top: 45px;
+          margin-top: 190px;
         }}
 
 
@@ -1680,6 +1680,19 @@ display: none;
 @media  (min-width: 1150px) and (max-width: 1156px){
   .whiteLinePosition {
     margin-left: 42px;
+}
+
+.girlPhoto{
+  /* margin-left: 398px; */
+}
+}
+
+
+  
+
+@media  (min-width: 1549px) and (max-width: 1562px){
+  .whiteLinePosition {
+    margin-left: 163px;
 }
 
 .girlPhoto{
